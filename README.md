@@ -87,14 +87,14 @@ O projeto foi desenvolvido com **media queries** específicas para telas:
 ---
 
 
-## 📬 Contato
-✉️ E-mail: gabrielsandes1903@gmail.com
+## 📩 Contato
+Gabriel Sandes
 
-📞 WhatsApp: (51) 98031-4793
+📧 gabrielsandes1903@gmail.com 
 
-🌐 LinkedIn
+🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
 
-💻 GitHub
+🔗 GitHub: https://github.com/Gabrielsande
 
 © Direitos
 © 2025 Gabriel Sandes – Todos os direitos reservados.
